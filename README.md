@@ -1,6 +1,6 @@
 GoFish
 ======
- This game is player vs. computer
+ This game is player vs. computer.
  Player will choose a card from their hand and ask the computer for that card
  if computer has it then he will give you it and you will have a pair. If not,
  computer will go fish. Computer will remember the cards you ask for and use them
